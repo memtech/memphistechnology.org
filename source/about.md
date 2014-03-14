@@ -3,6 +3,6 @@ layout: default
 title: About
 
 ---
-# About the Author or Blog
+# What is Memphis.Technology?
 
-Here is a little information about the author or the blog.
+Memphis.Technology is a group of people in Memphis with a diverse interest in Technology. We are user group leaders and participants interested in learning and growing our community.
