@@ -1,5 +1,6 @@
 ---
 title: Symfony Live Hacking Day!
+draft: true
 tags: [sensio, symfony, symfony live]
 categories: [personal]
 
