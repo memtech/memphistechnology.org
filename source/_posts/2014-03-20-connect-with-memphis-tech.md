@@ -19,5 +19,7 @@ Mailing List: [#memtech Google Group](https://groups.google.com/forum/#!forum/me
 
 IRC Chat: [#memtech on Freenode](http://webchat.freenode.net/?channels=#memtech)
 
+Events: [Meetup.com](http://www.meetup.com/memphis-technology-user-groups/)
+
 
 We are also heavily involved in [memphis user groups](http://memphis.technology/user-groups/)
