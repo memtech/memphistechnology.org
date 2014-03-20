@@ -17,7 +17,7 @@ title: "User Groups"
 
 * Meetups on the fourth Tuesday of every month, 6:30 pm
 
-[Memphis Python User Group]
+[Memphis Python User Group](http://www.mempy.org/)
 
 * Meetups on the third Monday of every month, 6:30 pm. Check the website for location.
 
