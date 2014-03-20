@@ -13,6 +13,8 @@ Twitter: [@memtech](https://twitter.com/@memtech)
 
 Facebook: [MemphisTechnology](https://www.facebook.com/MemphisTechnology)
 
+Google+: [Google+ Community](https://plus.google.com/u/1/communities/111617696126688058262)
+
 Mailing List: [#memtech Google Group](https://groups.google.com/forum/#!forum/memtech)
 
 IRC Chat: [#memtech on Freenode](http://webchat.freenode.net/?channels=#memtech)
