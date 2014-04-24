@@ -1,5 +1,5 @@
 ---
-title: Connect with Memphis.Technology
+title: Connect with Memphis Technology Foundation
 tags:
     - memphis
     - memtech
@@ -22,4 +22,4 @@ IRC Chat: [#memtech on Freenode](http://webchat.freenode.net/?channels=#memtech)
 Events: [Meetup.com](http://www.meetup.com/memphis-technology-user-groups/)
 
 
-We are also heavily involved in [memphis user groups](http://memphis.technology/user-groups/)
+We are also heavily involved in [memphis user groups](http://www.memphistechnology.org/user-groups/)

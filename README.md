@@ -1,8 +1,8 @@
-memphis.technology
+Memphis Technology Foundation
 ==
 
-[http://memphis.technology](http://memphis.technology)
+[http://www.MemphisTechnology.org](http://www.MemphisTechnology.org)
 
-Website for those interested in Technology in Memphis.
+Memphis Technology Foundation is a group interested in getting stuff done. Making stuff happen. Facilitation.
 
 Powered by [Sculpin](http://sculpin.io). =)
