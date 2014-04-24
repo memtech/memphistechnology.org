@@ -1,5 +1,5 @@
 ---
-title: Connect with Memphis Technology Foundation
+title: Connect with memtech
 tags:
     - memphis
     - memtech
@@ -7,7 +7,7 @@ categories:
     - news
     - social
 ---
-So you've managed to find this site, but how do you get in touch with more of the Memphis.Technology community? Here are a few ways:
+So you've managed to find this site, but how do you get in touch with more of the Memphis Technology community? Here are a few ways:
 
 Twitter: [@memtech](https://twitter.com/@memtech)
 
