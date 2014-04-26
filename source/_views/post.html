@@ -5,6 +5,9 @@
             <h2>{{ page.title }} <small>post</small></h2>
         </header>
         <div>
+            {% for thisAuthor in page.author %}
+                <h4>Author: {{ thisAuthor }}</h4>
+            {% endfor %}
             {{ page.blocks.content|raw }}
         </div>
         {% if page.categories %}

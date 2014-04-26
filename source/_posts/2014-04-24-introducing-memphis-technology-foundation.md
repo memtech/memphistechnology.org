@@ -5,6 +5,8 @@ tags:
     - memtech
 categories:
     - news
+author:
+    - Joe
 ---
 Today six #memtech user group leaders came together to form the nonprofit organization "Memphis Technology Foundation". The exact mission statement and goals of this new nonprofit are still being worked out.
 

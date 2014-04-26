@@ -21,6 +21,10 @@ title: "User Groups"
 
 * Meetups on the third Monday of every month, 6:30 pm. Check the website for location.
 
+[Memphis Hardware User Group](http://memhug.com/)
+
+* User group for those interested in microcontrollers and microcomputers like the Arduino, Raspberry Pi, Beagle Boards, etc
+
 [Memphis Ruby User Group](http://memphisruby.org/)
 
 * Meetups on the third Tuesday of every month, 6:00 pm.
