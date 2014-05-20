@@ -38,7 +38,7 @@ title: "User Groups"
 
 [Mid-South/Memphis Java User Group](http://www.memphisjug.org/)
 
-* Meetups on the third Monday of every month, 6:30 pm at Southwest TN Community College
+* Meetups on the third Thursday of every month, 6:30 pm at Southwest TN Community College
 
 [Midsouth Makers - Local Hacker/Makerspace](http://www.midsouthmakers.org)
 
