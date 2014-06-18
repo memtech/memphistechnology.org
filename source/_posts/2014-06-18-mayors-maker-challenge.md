@@ -12,7 +12,7 @@ author:
 ---
 On June 18th the White House will hold it's first ever [Maker Faire](http://www.whitehouse.gov/maker-faire). You can watch the stream live on the day of the event.
 
-June 17th, President Obamba said:
+June 17th, President Obama said:
 
 
 > I am proud to host the first-ever White House Maker Faire. This event celebrates every maker — from students learning STEM skills to entrepreneurs launching new businesses to innovators powering the renaissance in American manufacturing. I am calling on people across the country to join us in sparking creativity and encouraging invention in their communities.
