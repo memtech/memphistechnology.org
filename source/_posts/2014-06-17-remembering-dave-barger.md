@@ -6,7 +6,7 @@ tags:
 categories:
     - news
 author:
-    - Joe
+    - bgswanson
 ---
 In case you haven't [heard](http://www.peeblesfuneralhome.com/obits/obituary.php?id=579040), Memphis lost a beloved and highly-respected community member this weekend. Dave Barger, Jr. was first and foremost a family man, but a close second was his drive to make Memphis a better place. The amount of time and effort he put into that personal mission is easy to see by his community involvement.
 
