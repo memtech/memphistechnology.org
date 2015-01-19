@@ -13,3 +13,8 @@ You can directly impact what we can do. All donations will go towards the operat
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+# Tax Deductible
+
+Memphis Technology Foundation is a 501(c)(3) Public Charity Nonprofit. Donors can deduct contributions they make under IRC Section 170.
+ 
