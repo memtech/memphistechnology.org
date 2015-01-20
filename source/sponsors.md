@@ -23,3 +23,11 @@ Memphis Technology Foundation is proud to be sponsored by the following:
   </h2>
   <p>RocketFuel is a team of Memphis web design, branding and internet marketing experts. We love working together to launch amazing brands and digital experiences.</p>
 </div>
+<div class="col-lg-4">
+  <h2>
+      <a href="http://www.MidsouthMakers.org">
+          <img src="/components/img/midsouthmakers-logo.png" alt="MidsouthMakers">
+      </a>
+  </h2>
+  <p>Memphis area makerspace featuring diverse interests of technology, science, art, and crafting.</p>
+</div>
