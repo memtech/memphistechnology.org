@@ -2,5 +2,5 @@
 # via `site.*`. So for example, {{ site.title }} can be used
 # in a template to get the contents of the `title` key.
 title: Memphis Technology Foundation
-subtitle: Getting stuff done. Making stuff happen. Facilitation.
+subtitle: Getting stuff done and making stuff happen.
 email: info@memphistechnology.org
