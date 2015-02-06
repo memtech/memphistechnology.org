@@ -27,7 +27,7 @@ title: "User Groups"
 
 [Memphis Ruby User Group](http://memphisruby.org/)
 
-* Meetups on the third Tuesday of every month, 6:00 pm.
+* Meetups on the second Thursday of every month, 6:00 pm.
 * Check [memphisruby.org](http://memphisruby.org/) or [@MemphisRuby](http://twitter.com/MemphisRuby) for info and location.
 
 [Memphis Web Workers User Group](http://www.memphiswebworkers.com)
