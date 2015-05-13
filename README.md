@@ -11,6 +11,8 @@ Great!  We can't wait to see it.  Please read our [contribution guidelines](CONT
 
 ## Deployment
 
-Maybe you've got some new content you'd like to see on the page.  What happens after you submit a PR?
+Maybe you've got some new content you'd like to see on the pagit sge.  What happens after you submit a PR?
 
-TODO: Someone who runs the server (probably @svpernova09) can fill this out.
+@Svpernova09 handles deployments.
+
+If you don't see your change on the live site and you see your PR merged into master: Please ping ```joepferguson``` in #memtech on Freenode or #memtech Slack.
