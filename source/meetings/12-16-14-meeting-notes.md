@@ -1,106 +1,97 @@
 ---
 layout: default
-title: December 16th 2014 MTF Board Meeting
+title: December 16th 2014 Meeting Notes
 
 ---
-## December 16th 2014 MTF Board Meeting
+[back to meetings](/meetings)
 
-* Board Members: Now is the time to bail if you can’t commit.
+## December 16th 2014 Meeting Notes
 
-**Organizational Update: **
+### Chair went through history of the organization
 
-* Mutual Benefit Non Profit in the state of TN. 
+### Chair let us know status of mutual benefit non-profit.
 
-* Awaiting filing of 501c3.
-
-**Financial Update: **
-
+### Financial update
 * $608.30 in the bank.
+* This includes Vaco’s $500 Sponsorship (Holiday Party)
+* DOES NOT include:
+* GiveCamp Sponsor Check (Swanson has)
+* TechCamp Ticket Sales ($440.64)
+* We Owe Eventbrite $80.64
 
-    * This includes Vaco’s $500 Sponsorship (Holiday Party)
+###We are retroactively a 501c3 from the moment we incorporated.
+* April 24, 2014 (date we became a Mutual Benefit Non-Profit)
+* Can’t give directly to other events, but can pay for various things (on paper, becomes an MTF event)
+* Will file for or revise this by Friday, Dec. 19, 2014
 
-    * DOES NOT include:
+###Chairs read the Bylaws, Bylaws were discussed. Joe Ferguson Moved to vote on Bylaws and Brian Swanson seconded and put Bylaws to a vote. The Board voted to ratify.
 
-        * GiveCamp Sponsor Check (Swanson has)
+###Brian Swanson moved to remove Dan Hess from the Board. Bryan Robinson seconded the motion. The Board voted to remove.
 
-        * TechCamp Ticket Sales ($440.64)
+###The Board discussed the Mission and Purpose of MTF.
+* Facilitating events
+* Attending events (board member at all user groups)
+* Sponsorship of events
+* Goal of raising $100,000
+* Connect with other groups in the city
+ *  CoWork
+ * Crews Center
+ * Start Co.
+* Board Members should be involved in events we’re not a part of
+ * AIGA
+ * WordPress
+ * City Subcouncils
+ * Mentorship
+* If we put together a budget, find spot for mentorship and meetings (coworking space)
+* Resources
+ * Hosting
+ * Books
 
-        * We Owe Eventbrite $80.64
+###Discussion of committees/responsibilities
+####Social Media
+* Committee Chair: Joe Ferguson
+####Media Relations
+* Committee Chair: Bryan Robinson
+####Fundraising
+* Committee Chair: Brian Swanson
+####Code of Conduct
+* Committee Chair: Brad Montgomery
+* Find MTF Code to adopt
+* Lead charge for making sure and helping events adopt code of conduct
+####Community Involvement
+* Committee Chair: Claudio Donndelinger
+* Person to check in with when attending
+* Person that checks in with usergroups
+* Collect news from user groups
+* Send news to user groups
+* Slid.es account
+####MTF Newsletter
+* Bryan Robinson and Joe Ferguson
+* Monthly minimum
+####Other Orgs help to reach out to
+* B-Sides (Daniel)
+* CreativeWorks (Brob)
+* IndieMemphis (Swanson)
+* Black Girls Code (Daniel)
+* Justin Geeslin’s STEM/CSEd (Joe)
+* SQL Saturday from the SQL User group (Swanson)
+* Memphis Area GIS (Brad)
+* PyLadies (Brad Montgomery)
+####Tools
+* Investigate PM Tool
+* Trello
+* Basecamp
+* LeanKit
 
-* We have a SquareUp Account
+##Board Votes:
+###Ratify the Bylaws
+* Yea (6)
+* Nay (0)
+###Dan Hess' Board status
+* Yea (6)
+* Nay (0)
+###Charter amendments of stated purpose for 501(c)3
+* Yea (6)
+* Nay (0)
 
-* We have a paypal account
 
-**Bylaws Discussion:**
-
-* [Bylaws can be found here](https://docs.google.com/a/joeferguson.me/document/d/1nU4lsOiKq5HtmhtbfLpVobHscGgzwUin2hius5g8tls)
-
-* Board Positions
-
-    * Co-Chairmen x2 - Is the board OK with this?
-
-    * Public Relations
-
-    * Fundraising
-
-    * ??
-
-    * ??
-
-**Our Purpose / Mission:**
-
-* [First Thoughts Document](https://docs.google.com/a/joeferguson.me/document/d/1NeYdhKK9H8RsTYoJlTLKLGVEjEGf1Kl7ZRLUG-RWtyE/edit)
-
-* What do we want from MTF?
-
-    * I want MTF to build a bigger community (Joe)
-
-    * ?
-
-* What do we want to provide?
-
-    * Events
-
-    * Community Leadership
-
-    * Community Involvement
-
-    * Mentorship (Including Office Hours)
-
-    * Resources? (web-hosting etc, books, materials)
-
-    * Promotional Reach (for other groups/events, user groups, etc)
-
-    * Open source projects
-
-    * ?
-
-* [Goals Document has more info](https://docs.google.com/a/joeferguson.me/document/d/1KNKQOFz9-PU1iOebq987fnFvQpz8uYi7XVnqqDVtDUU/edit?usp=drive_web)
-
-**501(c)(3) Discussion of Application:**
-
-* Review Application
-
-**Event Schedule for 2015:**
-
-* GiveCamp: February 20-22
-
-    * We will be handling money
-
-* CoderDojo Memphis: Early May?
-
-    * We will be organizing
-
-* HACKmemphis: Middle September
-
-    * We will be sponsoring/organizing
-
-* TechCamp: Middle October?
-
-    * We will be organizing
-
-**Action Items for 12/16**
-
-* Vote in Bylaws
-
-* Joe file articles of amendment to charter stating purpose
