@@ -1,0 +1,106 @@
+---
+layout: default
+title: December 16th 2014 MTF Board Meeting
+
+---
+## December 16th 2014 MTF Board Meeting
+
+* Board Members: Now is the time to bail if you can’t commit.
+
+**Organizational Update: **
+
+* Mutual Benefit Non Profit in the state of TN. 
+
+* Awaiting filing of 501c3.
+
+**Financial Update: **
+
+* $608.30 in the bank.
+
+    * This includes Vaco’s $500 Sponsorship (Holiday Party)
+
+    * DOES NOT include:
+
+        * GiveCamp Sponsor Check (Swanson has)
+
+        * TechCamp Ticket Sales ($440.64)
+
+        * We Owe Eventbrite $80.64
+
+* We have a SquareUp Account
+
+* We have a paypal account
+
+**Bylaws Discussion:**
+
+* [Bylaws can be found here](https://docs.google.com/a/joeferguson.me/document/d/1nU4lsOiKq5HtmhtbfLpVobHscGgzwUin2hius5g8tls)
+
+* Board Positions
+
+    * Co-Chairmen x2 - Is the board OK with this?
+
+    * Public Relations
+
+    * Fundraising
+
+    * ??
+
+    * ??
+
+**Our Purpose / Mission:**
+
+* [First Thoughts Document](https://docs.google.com/a/joeferguson.me/document/d/1NeYdhKK9H8RsTYoJlTLKLGVEjEGf1Kl7ZRLUG-RWtyE/edit)
+
+* What do we want from MTF?
+
+    * I want MTF to build a bigger community (Joe)
+
+    * ?
+
+* What do we want to provide?
+
+    * Events
+
+    * Community Leadership
+
+    * Community Involvement
+
+    * Mentorship (Including Office Hours)
+
+    * Resources? (web-hosting etc, books, materials)
+
+    * Promotional Reach (for other groups/events, user groups, etc)
+
+    * Open source projects
+
+    * ?
+
+* [Goals Document has more info](https://docs.google.com/a/joeferguson.me/document/d/1KNKQOFz9-PU1iOebq987fnFvQpz8uYi7XVnqqDVtDUU/edit?usp=drive_web)
+
+**501(c)(3) Discussion of Application:**
+
+* Review Application
+
+**Event Schedule for 2015:**
+
+* GiveCamp: February 20-22
+
+    * We will be handling money
+
+* CoderDojo Memphis: Early May?
+
+    * We will be organizing
+
+* HACKmemphis: Middle September
+
+    * We will be sponsoring/organizing
+
+* TechCamp: Middle October?
+
+    * We will be organizing
+
+**Action Items for 12/16**
+
+* Vote in Bylaws
+
+* Joe file articles of amendment to charter stating purpose
