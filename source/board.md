@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: board-gallery
 title: Memphis Technology Foundation Board Members
 
 ---
