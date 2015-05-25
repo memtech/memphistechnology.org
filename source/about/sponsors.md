@@ -9,7 +9,7 @@ Memphis Technology Foundation is proud to be sponsored by the following:
 
 <div class="col-lg-4">
   <h2>
-      <a href="http://www.HACKmemphis.com">
+      <a href="http://www.HACKmemphis.com" target="_blank">
           <img src="/components/img/hack-memphis-top.png" alt="HACKmemphis">
       </a>
   </h2>
@@ -17,7 +17,7 @@ Memphis Technology Foundation is proud to be sponsored by the following:
 </div>
 <div class="col-lg-4">
   <h2>
-      <a href="http://www.gorocketfuel.com">
+      <a href="http://www.gorocketfuel.com" target="_blank">
           <img src="/components/img/rocketfuel-logo.png" alt="RocketFuel">
       </a>
   </h2>
@@ -25,7 +25,7 @@ Memphis Technology Foundation is proud to be sponsored by the following:
 </div>
 <div class="col-lg-4">
   <h2>
-      <a href="http://www.MidsouthMakers.org">
+      <a href="http://www.MidsouthMakers.org" target="_blank">
           <img src="/components/img/midsouthmakers-logo.png" alt="MidsouthMakers">
       </a>
   </h2>
