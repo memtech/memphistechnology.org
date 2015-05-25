@@ -5,61 +5,54 @@ title: "User Groups"
 ---
 # User Groups
 
-[Wordpress Memphis](http://www.meetup.com/WordPress-Memphis/)
+#### <a href="http://www.midsouthmakers.org/" target="_blank">Midsouth Makers - Local Hacker/Makerspace</a>
+* Open House Every Friday 7pm-9pm <a href="http://twitter.com/MidsouthMakers" target="_blank">@MidsouthMakers</a>
 
-* Meetups on the first Thursday of every month, 6:00 pm at EmergeMemphis
+#### <a href="http://www.meetup.com/MemphisGameDev/" target="_blank">Memphis Game Developers</a>
+* Meets every Saturday at 7pm <a href="http://twitter.com/MemphisGameDev" target="_blank">@MemphisGameDev</a>
 
-[.Net User Group](http://mnug.net/)
+#### <a href="http://www.meetup.com/WordPress-Memphis/" target="_blank">WordPress Memphis</a>
+* Meets on the first Thursday of every month at 6:00 pm
 
-* Meetups on the fourth Thursday of every month, 6:00 pm at Southwest TN Community College's Fulton Auditorium
+#### <a href="http://www.memphiswebworkers.com" target="_blank">Memphis Web Workers User Group</a>
+* Meets on the second Tuesday of every month at 6:00 pm <a href="http://twitter.com/MemphisWW" target="_blank">@MemphisWW</a>
 
-[Memphis PHP Group](http://memphisphp.org)
+#### <a href="http://memphisruby.org" target="_blank">Memphis Ruby User Group</a>
+* Meets on the second Thursday of every month at 6:00 pm <a href="http://twitter.com/MemphisRuby" target="_blank">@MemphisRuby</a>
 
-* Meetups on the fourth Tuesday of every month, 6:30 pm
+#### <a href="http://www.mempy.org" target="_blank">Memphis Python User Group</a>
+* Meets on the third Monday of every month at 6:30 pm <a href="http://twitter.com/MemphisPython" target="_blank">@MemphisPython</a>
 
-[Memphis Python User Group](http://www.mempy.org/)
+#### <a href="http://www.memphisjug.org" target="_blank">Mid-South/Memphis Java User Group</a>
+* Meets on the third Thursday of every month at 6:30 pm <a href="http://twitter.com/memphisjug" target="_blank">@memphisjug</a>
 
-* Meetups on the third Monday of every month, 6:30 pm. Check the website for location.
+#### <a href="http://memphisphp.org" target="_blank">Memphis PHP Group</a>
+* Meets on the fourth Tuesday of every month at 6:30 pm <a href="http://twitter.com/memphisphp" target="_blank">@MemphisPHP</a>
 
-[Memphis Hardware User Group](http://memhug.com/)
+#### <a href="http://mnug.net" target="_blank">Memphis .Net User Group</a>
+* Meets on the fourth Thursday of every month at 6:00 pm
+
+#### <a href="http://www.memapg.com" target="_blank">Memphis Agile Practitioners Group</a>
+* Meets monthly + Monthly lunch event <a href="http://twitter.com/MemphisAgile" target="_blank">@MemphisAgile</a>
+
+#### <a href="http://mem-pass.org" target="_blank">Memphis PASS Chapter</a>
+* Meets monthly
+
+#### <a href="http://www.meetup.com/Meteor-Memphis" target="_blank">Meteor Memphis</a>
+* Meets monthly
+
+#### <a href="http://www.pmimemphis.org" target="_blank">Project Management Institute – Memphis Chapter</a>
+
+### Inactive or Unknown Status:
+
+<a href="http://www.golum.org" target="_blank">GOLUM (Linux)</a> – <a href="https://groups.google.com/forum/#!forum/golum-group" target="_blank">Mailing list</a> somewhat active
+
+<a href="http://memphis.issa.org" target="_blank">Memphis Information Systems Security Association(ISSA)</a> – <a href="http://twitter.com/Memphis_ISSA" target="_blank">@Memphis_ISSA</a>
+
+<a href="https://www.owasp.org/index.php/Memphis" target="_blank">Memphis OWASP</a>
+
+<a href="http://sharepoint.memphissharepointgroup.com" target="_blank">Memphis Sharepoint User Group</a>
+
+<a href="http://memhug.com" target="_blank">Memphis Hardware User Group</a>
 
 * User group for those interested in microcontrollers and microcomputers like the Arduino, Raspberry Pi, Beagle Boards, etc
-
-[Memphis Ruby User Group](http://memphisruby.org/)
-
-* Meetups on the second Thursday of every month, 6:00 pm.
-* Check [memphisruby.org](http://memphisruby.org/) or [@MemphisRuby](http://twitter.com/MemphisRuby) for info and location.
-
-[Memphis Web Workers User Group](http://www.memphiswebworkers.com)
-
-* Meetups on second Tuesday of every month, 6:00 pm
-
-[Memphis Sharepoint User Group](http://sharepoint.memphissharepointgroup.com/)
-
-[Mid-South/Memphis Java User Group](http://www.memphisjug.org/)
-
-* Meetups on the third Thursday of every month, 6:30 pm at Southwest TN Community College
-
-[Midsouth Makers - Local Hacker/Makerspace](http://www.midsouthmakers.org)
-
- * Open House Every Friday 7pm-9pm
-
-[Memphis Information Systems Security Association(ISSA)](http://memphis.issa.org/)
-
-* Follow [@Memphis_ISSA](http://twitter.com/Memphis_ISSA) on twitter
-
-[Memphis OWASP](https://www.owasp.org/index.php/Memphis)
-
-[Memphis Game Developers](http://www.meetup.com/MemphisGameDev/)
-
-[Memphis Agile Practitioners Group](http://www.memapg.com/)
-
-[Memphis PASS Chapter](http://mem-pass.org/)
-
-[NetSquared Memphis Meetup Group](http://www.meetup.com/Netsquared-Memphis-Meetup-Group/)
-
-[Project Management Institute – Memphis Chapter](http://pmimemphis.org/)
-
-Inactive:
-
-[GOLUM (Linux)](http://www.golum.org/) - [Mailing list](https://groups.google.com/forum/#!forum/golum-group) somewhat active
