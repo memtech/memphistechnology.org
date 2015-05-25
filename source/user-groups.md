@@ -43,6 +43,8 @@ title: "User Groups"
 
 #### <a href="http://www.pmimemphis.org" target="_blank">Project Management Institute – Memphis Chapter</a>
 
+#### <a href="https://twitter.com/MemphisRobotics" target="_blank">Memphis Robotics</a>
+
 ### Inactive or Unknown Status:
 
 <a href="http://www.golum.org" target="_blank">GOLUM (Linux)</a> – <a href="https://groups.google.com/forum/#!forum/golum-group" target="_blank">Mailing list</a> somewhat active
@@ -56,3 +58,5 @@ title: "User Groups"
 <a href="http://memhug.com" target="_blank">Memphis Hardware User Group</a>
 
 * User group for those interested in microcontrollers and microcomputers like the Arduino, Raspberry Pi, Beagle Boards, etc
+
+<a href="http://www.meetup.com/Memphis-MongoDB-User-Group/" target="_blank">Memphis MongoDB User Group</a>
