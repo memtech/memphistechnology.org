@@ -37,13 +37,13 @@ mv ~/bin/sculpin.phar ~/bin/sculpin
 ### Step three and a half: install php if you didn't have it already
 ```sh
 # install php5 - ubuntu
-sudo apt-get install php5
+sudo apt-get install php5-cli
 ```
 
 ### Step four: Run a local copy of this site that you can see in a browser via Sculpin
 ```
 # run the app in a local server
-sculpin generate --watch --server
+sh watch.sh
 ```
 
 ### Step five:  Check out the site in your browser to see your changes in action
