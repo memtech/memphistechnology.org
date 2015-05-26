@@ -33,7 +33,7 @@ cd memphistechnology.org/
 
 # Deployment
 
-Maybe you've got some new content you'd like to see on the pagit sge.  What happens after you submit a PR?
+Maybe you've got some new content you'd like to see on the page.  What happens after you submit a PR?
 
 @Svpernova09 handles deployments.
 
