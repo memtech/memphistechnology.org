@@ -12,7 +12,7 @@ docker run -d -p 8000:8000 -v "$PWD:/data"
 
 Browse to your running docker container.
 
-Linux: [http://localhost:8000](http://localhost:8000)
-Mac: prbably [http://192.168.59.103:8000](http://192.168.59.103:8000)
+- Linux: [http://localhost:8000](http://localhost:8000)
+- Mac: prbably [http://192.168.59.103:8000](http://192.168.59.103:8000)
 
 There, you did it!  Congratulations.
