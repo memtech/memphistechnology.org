@@ -5,6 +5,12 @@ h4 small
     color: #888;
 }
 
+.sponsors-sidebar>ul>li a
+{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
 .mainContent, footer.container {
     max-width: 900px;
 }
