@@ -14,7 +14,7 @@ author:
     - Joe
 ---
 <a href="/pdfs/TechOfficeHours.pdf" target="_blank">
-    <img style="height: 300px; float:right;" src="/components/img/techoffice-flyer.png">
+    <img style="height: 300px; float:right;" src="/themes/memtech/memtech-sculpin/img/techoffice-flyer.png">
 </a>
 
 __What:__ Technical Office Hours

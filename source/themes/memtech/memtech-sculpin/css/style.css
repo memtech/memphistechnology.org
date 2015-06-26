@@ -36,5 +36,5 @@ footer.container {
 .feed {
     margin-left: 3px;
     padding: 0 0 0 19px;
-    background: url("/components/img/feed-icon-14x14.png") no-repeat 0 50%;
+    background: url("/themes/memtech/memtech-sculpin/img/feed-icon-14x14.png") no-repeat 0 50%;
 }

@@ -18,7 +18,7 @@ The second great event is we are happy to partner with Start Co again for Techni
 If you are interested in mentoring or being mentored, drop us an email at [mentoring@memphistechnology.org](mailto:mentoring@memphistechnology.org)
 
 <a href="/components/img/May-29th-Mentoring.jpg" target="_blank">
-    <img src="/components/img/May-29th-Mentoring-sml.png" height="200px"></img>
+    <img src="/themes/memtech/memtech-sculpin/img/May-29th-Mentoring-sml.png" height="200px"></img>
 </a>
 
 
