@@ -1,0 +1,121 @@
+@skinColor:#e7bd15;
+@fontFamily: 'Lato',sans-serif;
+
+.slide-heading, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+  font-family: @fontFamily;
+}
+
+/*
+	Style for Switcher
+*/
+div.style-switcher{
+  h4{
+    background: @skinColor;
+    a{
+      background: @skinColor;
+    }
+  } 
+} 
+.tp-caption{
+  .anim-icon{
+    &:hover, &:focus{
+     color: @skinColor; 
+    }    
+  }
+} 
+.anim-icon.fill, .jump, .pagination-wrap [class^="page-"], .accordion-sec .panel-title > a, .panel-list .list-group-item >a {
+  &:hover, &:focus{
+     color: @skinColor; 
+    }  
+}
+/*
+  Style For Golbar Buttons
+---------------------------------*/
+
+
+.navbar{
+  &-nav{
+     > li {
+       > a{
+         &:after{
+           color: @skinColor;
+         }
+       }
+     }
+    }
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus{
+  color: @skinColor;
+}
+.navbar-nav > li > .dropdown-menu{
+  border-bottom-color: @skinColor;
+  &:after{
+    border-bottom-color: @skinColor;
+  }
+}
+.navbar-inverse .navbar-nav .dropdown-menu > li > a:hover:after {
+  color: @skinColor;
+}
+/*theme color*/
+#theme_panel .page-group .active-page, #theme_panel .page-group a:hover, .contact-form .label-text.focussed, .pagination-wrap [class^="page-"]:after, #partners-carousel .owl-page.active,.theme-text, .title-line,.sign-up .btn-theme, #footer .charity,.list-unstyled li:before,.video-section h2,.video-section .play-btn,.header-second .btn-default,.quote-mark,.footer-logo a,.main-slider .banner-slider h2 strong,
+.main-slider .btn,.btn-wrapper .btn-default,.slider-wrapper3 .btn-default,.touch-by-mail:hover,.header-third .primary-header .btn-default:hover,.helping-child .btn-theme,.contact-address a[href^="mailto:"],.banner-section .btn-link:hover,.banner-section .btn-link,.slider-third .tp-caption .btn.btn-default,.payment-success-box h2 span,.banner-slider .slide-2 .tp-caption a.btn-link,#confirmation .completed,aside.media span,.payment-success-box h2 span
+{
+  color: @skinColor !important;
+}
+ #theme_panel .theme-setting, #theme_panel .note, #theme_panel .layout-column.radio-active .column-text:before, #theme_panel .select-box, #theme_panel .theme-pager li.current a, #theme_panel .theme-pager li:hover a, .navbar-default, .panel-default > .panel-heading, .sign-up .btn-theme:hover, .sign-up .btn-theme:focus, .nav-tabs > li > a, .progress, .progress-value, .navbar-nav > li > .dropdown-menu,.btn-bg,.tp-bullets.simplebullets.round .bullet.selected,.testimonial-slider .flex-control-paging a.flex-active,.article-list .progress-bar, .article-list-large .progress-bar,.warning-icon-box,.btn-default:hover, .btn-default:focus,.bg-theme,.modal-content button.close,
+ .header-third .brand,.header-third .nav-content:before,.news-section3 .volunteer-reward,.header-second .form-group,.faq .collape-plus,.choose-pricing .btn-default.active,.checkout ul.nav-tabs li.active a,input:focus,textarea:focus,.btn-width:focus,.choose-pricing .btn-default:hover, .choose-pricing .btn-default.active,.helping-child .btn-theme:hover,.fancybox-close,.fancybox-nav ,.blog-alert,.number-count,.product-quantity input
+ {
+  background: @skinColor;
+}
+.svg-shape path,.hand-pics svg{
+  fill:@skinColor;
+}
+.navbar-nav > li > .dropdown-menu, .navbar-nav .open .dropdown-menu
+{
+  background:darken(@skinColor,5%);
+}
+.navbar-default, .navbar-default .navbar-collapse, .navbar-default .navbar-form, .sign-up .btn-theme,.header-second .bottom-line:before
+{
+  border-color:darken(@skinColor,10%);
+}
+ #theme_panel .yellow-brder,blockquote,.sign-up .btn-theme,.btn-default:hover, .btn-default:focus,.header-second .btn-default,.main-slider .btn,.btn-wrapper .btn-default,.slider-wrapper3 .btn-default,.header-third .primary-header .btn-default:hover,.callout,.helping-child .btn-theme,
+ .content-wrapper .faq-header  h2 strong,.choose-pricing .btn-default.active,.choose-pricing .btn-default:hover, .choose-pricing .btn-default.active,.slider-third .tp-caption .btn.btn-default ,.shop-today a.btn:hover,.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus ,.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus,.btn-again
+ {
+  border-color:@skinColor;
+}
+.navbar-nav > li > .dropdown-menu > ul > li > a{
+  border-bottom:1px solid @skinColor;
+}
+.progress-value:before{
+  border-top: 4px solid @skinColor;
+}
+h1 strong, .h1 strong, h2 strong, .h2 strong, h3 strong, .h3 strong, h2 strong, .h2 strong, h4 strong, .h4 strong{
+  border-bottom-color:@skinColor;
+}
+.checkout ul.nav-tabs li.active:after{
+  border-top: 8px solid @skinColor;
+}
+.progress-value:after{
+  border-top: 4px solid @skinColor;
+}
+.tp-bullets.simplebullets.round .bullet,.testimonial-slider .flex-control-paging a{
+  border:2px solid @skinColor;
+}
+.blockquote-reverse {
+border-right: 5px solid @skinColor;
+}
+
+.navbar-default
+  {background: linear-gradient(to bottom, @skinColor 0%, @skinColor 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=@skinColor, endColorstr=@skinColor,GradientType=0 ); /* IE6-9 */}
+  
+ .header-third .navbar-alternate {
+    background-color: #323026;
+    background: #323026;
+} 
+.fill{
+  fill: @skinColor;
+}
+.stroke{
+  stroke: @skinColor;
+}
