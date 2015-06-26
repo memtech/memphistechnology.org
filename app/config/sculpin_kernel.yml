@@ -1,3 +1,5 @@
 sculpin_content_types:
     posts:
         permalink: blog/:year/:month/:day/:filename/
+sculpin_theme:
+  theme: memtech/memtech-sculpin
