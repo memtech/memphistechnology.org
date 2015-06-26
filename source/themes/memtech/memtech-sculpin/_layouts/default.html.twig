@@ -1,24 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>{% block title %}{{ page.title }}{% endblock %} &mdash; {{ site.title }} &mdash; {{ site.subtitle }}</title>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="/{{ theme_path("css/bootstrap/css/bootstrap.min.css") }}" rel="stylesheet" type="text/css" />
-        <link href="/{{ theme_path("css/bootstrap/css/bootstrap-responsive.min.css") }}" rel="stylesheet" type="text/css" />
-        <link href="/{{ theme_path("css/style.css") }}" rel="stylesheet" type="text/css" />
-        <meta name="google-site-verification" content="dCj5kH4G0o2ctizBY_lK8TX499BwTWem4dvTutH9H3s" />
-        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-        <!--[if lt IE 9]>
-            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-        <link rel="stylesheet" href="/{{ theme_path("css/highlightjs/styles/github.css") }}" />
-        <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/atom.xml" title="{{ site.title }} activity feed" />
-        <style>
-        /** quick fix because bootstrap <pre> has a background-color. */
-        pre code { background-color: inherit; }
-        </style>
-        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+        {% include theme_path('partials/head.html') %}
     </head>
     <body>
         <header>
