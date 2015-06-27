@@ -3,3 +3,8 @@ sculpin_content_types:
         permalink: blog/:year/:month/:day/:filename/
 sculpin_theme:
   theme: memtech/memtech-sculpin
+services:
+    twig.extension.text:
+        class: Twig_Extensions_Extension_Text
+        tags:
+            - { name: twig.extension }
