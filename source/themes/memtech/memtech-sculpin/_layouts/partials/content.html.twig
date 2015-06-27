@@ -170,188 +170,26 @@
 
                     <div class="article-list flexslider article-slider progressbar">
                         <ul class="slides">
+                            {% for post in page.pagination.items %}
                             <li>
                                 <div class="items zoom">
-                                    <h3 class="h6">Help african children to have homes</h3>
-                                    <a href="#" class="img-thumb">
-                                        <figure>
-                                            <img src="{{ theme_path('img/img-slide-01.jpg') }}" alt="">
-                                        </figure>
-                                    </a>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100">
-                                            <span class="progress-value">72% </span>
-                                        </div>
-                                    </div>
-                                    <span class="donation">Donation : <span class="value">$78,354 <small>/ $1,26,500</small></span></span>
+                                    <h3 class="h6"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
                                     <p>
-                                        Lorem ipsum dolor sit consectetur adipiscing elit ellentesque. Future stuffs also goes...
+                                        {{ post.blocks.content|length > 150 ? post.blocks.content|striptags|slice(0, 150) ~ '...' : post.blocks.content|striptags  }}
+                                        {#{{ post.blocks.content|striptags|wordwrap(15) }}...#}
                                     </p>
-                                    <a data-toggle="modal" href="external.html" data-target=".donate-form" class="btn btn-default">DONATE NOW</a>
+                                    <a href="{{ site.url }}{{ post.url }}" class="btn btn-default">Read More</a>
+                                    {% if post.meta.tags %}
+                                        <p class="tags">
+                                            Tags:
+                                            {% for tag in post.meta.tags %}
+                                                <a href="{{ site.url }}/blog/tags/{{ tag|url_encode(true) }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
+                                            {% endfor %}
+                                        </p>
+                                    {% endif %}
                                 </div>
                             </li>
-                            <li>
-                                <div class="items zoom">
-                                    <h3 class="h6">Help girls to get Education</h3>
-                                    <a href="#" class="img-thumb">
-                                        <figure>
-                                            <img src="{{ theme_path('img/img-slide-02.jpg') }}" alt="">
-                                        </figure>
-                                    </a>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
-                                            <span class="progress-value">60% </span>
-                                        </div>
-                                    </div>
-                                    <span class="donation">Donation : <span class="value">$78,354 <small>/ $1,26,500</small></span></span>
-                                    <p>
-                                        Lorem ipsum dolor sit consectetur adipiscing elit ellentesque. Future stuffs also goes...
-                                    </p>
-                                    <a data-toggle="modal" href="external.html" data-target=".donate-form" class="btn btn-default">DONATE NOW</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="items zoom">
-                                    <h3 class="h6">Help us to send Vegetables to Africa</h3>
-                                    <a href="#" class="img-thumb">
-                                        <figure>
-                                            <img src="{{ theme_path('img/img-slide-03.jpg') }}" alt="">
-                                        </figure>
-                                    </a>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
-                                            <span class="progress-value">80% </span>
-                                        </div>
-                                    </div>
-                                    <span class="donation">Donation : <span class="value">$78,354 <small>/ $1,26,500</small></span></span>
-                                    <p>
-                                        Lorem ipsum dolor sit consectetur adipiscing elit ellentesque. Future stuffs also goes...
-                                    </p>
-                                    <a data-toggle="modal" href="external.html" data-target=".donate-form" class="btn btn-default">DONATE NOW</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="items zoom">
-                                    <h3 class="h6">Help african children to have homes</h3>
-                                    <a href="#" class="img-thumb">
-                                        <figure>
-                                            <img src="{{ theme_path('img/img-slide-01.jpg') }}" alt="">
-                                        </figure>
-                                    </a>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100">
-                                            <span class="progress-value">72% </span>
-                                        </div>
-                                    </div>
-                                    <span class="donation">Donation : <span class="value">$78,354 <small>/ $1,26,500</small></span></span>
-                                    <p>
-                                        Lorem ipsum dolor sit consectetur adipiscing elit ellentesque. Future stuffs also goes...
-                                    </p>
-                                    <a data-toggle="modal" href="external.html" data-target=".donate-form" class="btn btn-default">DONATE NOW</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="items zoom">
-                                    <h3 class="h6">Help girls to get Education</h3>
-                                    <a href="#" class="img-thumb">
-                                        <figure>
-                                            <img src="{{ theme_path('img/img-slide-02.jpg') }}" alt="">
-                                        </figure>
-                                    </a>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
-                                            <span class="progress-value">60% </span>
-                                        </div>
-                                    </div>
-                                    <span class="donation">Donation : <span class="value">$78,354 <small>/ $1,26,500</small></span></span>
-                                    <p>
-                                        Lorem ipsum dolor sit consectetur adipiscing elit ellentesque. Future stuffs also goes...
-                                    </p>
-                                    <a data-toggle="modal" href="external.html" data-target=".donate-form" class="btn btn-default">DONATE NOW</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="items zoom">
-                                    <h3 class="h6">Help us to send Vegetables to Africa</h3>
-                                    <a href="#" class="img-thumb">
-                                        <figure>
-                                            <img src="{{ theme_path('img/img-slide-03.jpg') }}" alt="">
-                                        </figure>
-                                    </a>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
-                                            <span class="progress-value">80% </span>
-                                        </div>
-                                    </div>
-                                    <span class="donation">Donation : <span class="value">$78,354 <small>/ $1,26,500</small></span></span>
-                                    <p>
-                                        Lorem ipsum dolor sit consectetur adipiscing elit ellentesque. Future stuffs also goes...
-                                    </p>
-                                    <a data-toggle="modal" href="external.html" data-target=".donate-form" class="btn btn-default">DONATE NOW</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="items zoom">
-                                    <h3 class="h6">Help african children to have homes</h3>
-                                    <a href="#" class="img-thumb">
-                                        <figure>
-                                            <img src="{{ theme_path('img/img-slide-01.jpg') }}" alt="">
-                                        </figure>
-                                    </a>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100">
-                                            <span class="progress-value">72% </span>
-                                        </div>
-                                    </div>
-                                    <span class="donation">Donation : <span class="value">$78,354 <small>/ $1,26,500</small></span></span>
-                                    <p>
-                                        Lorem ipsum dolor sit consectetur adipiscing elit ellentesque. Future stuffs also goes...
-                                    </p>
-                                    <a data-toggle="modal" href="external.html" data-target=".donate-form" class="btn btn-default">DONATE NOW</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="items zoom">
-                                    <h3 class="h6">Help girls to get Education</h3>
-                                    <a href="#" class="img-thumb">
-                                        <figure>
-                                            <img src="{{ theme_path('img/img-slide-02.jpg') }}" alt="">
-                                        </figure>
-                                    </a>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
-                                            <span class="progress-value">60% </span>
-                                        </div>
-                                    </div>
-                                    <span class="donation">Donation : <span class="value">$78,354 <small>/ $1,26,500</small></span></span>
-                                    <p>
-                                        Lorem ipsum dolor sit consectetur adipiscing elit ellentesque. Future stuffs also goes...
-                                    </p>
-                                    <a data-toggle="modal" href="external.html" data-target=".donate-form" class="btn btn-default">DONATE NOW</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="items zoom">
-                                    <h3 class="h6">Help us to send Vegetables to Africa</h3>
-                                    <a href="#" class="img-thumb">
-                                        <figure>
-                                            <img src="{{ theme_path('img/img-slide-03.jpg') }}" alt="">
-                                        </figure>
-                                    </a>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
-                                            <span class="progress-value">80% </span>
-                                        </div>
-                                    </div>
-                                    <span class="donation">Donation : <span class="value">$78,354 <small>/ $1,26,500</small></span></span>
-                                    <p>
-                                        Lorem ipsum dolor sit consectetur adipiscing elit ellentesque. Future stuffs also goes...
-                                    </p>
-                                    <a data-toggle="modal" href="external.html" data-target=".donate-form" class="btn btn-default">DONATE NOW</a>
-                                </div>
-                            </li>
-
-
+                            {% endfor %}
                         </ul>
                     </div>
                 </div>
