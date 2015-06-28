@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% include theme_path('partials/head.html') %}
+    </head>
+    <body>
+
+        <div id="wrapper">
+            {% include theme_path('partials/header.html') %}
+
+            <!-- Site Content -->
+            <div id="main">
+                {% include theme_path('partials/content.html') %}
+            </div>
+            <!--Content End Here -->
+
+            {% include theme_path('partials/footer.html') %}
+
+        </div>
+        {% include theme_path('partials/scripts.html') %}
+    </body>
+</html>
