@@ -729,7 +729,7 @@ blockquote footer:before, .blockquote-reverse footer:after {
  4.1) Header First Style
  ----------------------------------------*/
 #header {
-	background: #26211d;
+	background: #fff;
 	position:relative;
 	z-index:99;
 }
@@ -788,7 +788,7 @@ blockquote footer:before, .blockquote-reverse footer:after {
 	font-family: 'socialico_plusregular';
 }
 .social-icons a:hover, .social-icons a:focus {
-	color: #fff;
+	/*color: #fff;*/
 }
 .navbar-collapse {
 	padding-left: 0;
