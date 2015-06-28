@@ -7,9 +7,11 @@
 
         <div id="wrapper">
             {% include theme_path('partials/header.html') %}
-
-            {% include theme_path('partials/content.html') %}
-
+            <!-- Site Content -->
+            <div id="main">
+                {% block main %}{% endblock %}
+            </div>
+            <!--Content End Here -->
             {% include theme_path('partials/footer.html') %}
 
         </div>
