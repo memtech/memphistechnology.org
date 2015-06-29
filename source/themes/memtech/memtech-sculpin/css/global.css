@@ -549,7 +549,7 @@ blockquote footer:before, .blockquote-reverse footer:after {
 	height: 0;
 	border-style: solid;
 	border-width: 5px 5px 0 5px;
-	border-color: #ecc731 transparent transparent;
+	border-color: #2777d5 transparent transparent;
 	left: 50%;
 	margin-left: -5px;
 	position: absolute;
@@ -896,8 +896,8 @@ a.brand img {
 .search-form {
 	margin: 0;
 	border-bottom: 0;
-	border-left: 1px solid #d6b428;
-	border-right: 1px solid #d6b428;
+	border-left: 1px solid #2777d5;
+	border-right: 1px solid #2777d5;
 	padding: 0;
 	position: relative;
 }
@@ -1008,7 +1008,7 @@ a.brand img {
 	line-height:3;
 }
 .touch-by-mail:hover{
-	color:#ecc731;
+	color:#2777d5;
 }
 .header-second .primary-header{
 	padding:8px 0 8px;
@@ -1028,8 +1028,8 @@ margin-left: 0;
 	line-height: 2.4;
 }
 .header-second .btn-default{
-	border-color:#ecc731;
-	color:#ecc731;
+	border-color:#2777d5;
+	color:#2777d5;
 }
 .header-second .btn-default:hover{
 	background: #26211d;
@@ -1094,8 +1094,8 @@ margin-left: 0;
 	color: #2d2620;
 }
 .header-third .primary-header .btn-default:hover, .slider-wrapper3 .btn-default, .btn-wrapper .btn-default{
-	border-color: #ecc731;
-	color: #ecc731;
+	border-color: #2777d5;
+	color: #2777d5;
 	background-color: transparent;
 }
 .header-third .navbar-alternate{
