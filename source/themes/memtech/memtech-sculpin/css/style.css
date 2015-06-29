@@ -3010,26 +3010,26 @@ body .ui-widget-header {
 	padding-right: 50px;
 }
 .countdown-row .countdown-section {
-	background-color: rgb( 236, 199, 49 );
+	background-color: rgb( 31, 95, 170 );
 	box-shadow: 0.5px 0.866px 1px 0px rgba( 40, 40, 40,0.4 );
 	height: 141px;
 	float: left;
 }
 .countdown-row .countdown-section + .countdown-section {
-	background-color: rgb( 221, 187, 46 );
+	background-color: rgb( 31, 95, 170 );
 	box-shadow: 0.5px 0.866px 1px 0px rgba( 40, 40, 40,0.4 );
 	height: 141px;
 	float: left;
 }
 
 .countdown-row .countdown-section + .countdown-section + .countdown-section {
-	background-color: rgb( 202, 178, 48 );
+	background-color: rgb( 31, 95, 170 );
 	box-shadow: 0.5px 0.866px 1px 0px rgba( 40, 40, 40,0.4 );
 	float: left;
 	height: 141px;
 }
 .countdown-row .countdown-section + .countdown-section + .countdown-section + .countdown-section {
-	background-color: rgb( 178, 170, 57 );
+	background-color: rgb( 31, 95, 170 );
 	box-shadow: 0.5px 0.866px 1px 0px rgba( 40, 40, 40,0.4 );
 	float: left;
 	height: 141px;
