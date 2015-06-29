@@ -1,6 +1,6 @@
 /*
  Table Of Contents
- 1) @fontface 
+ 1) @fontface
  2) General Text Formatting and Typography
  3) Site Wide Content
  	3.1) General Style
@@ -133,7 +133,7 @@ right: 8px;
 top: 17px;
 width: 68px;
 height: 98px;
-	
+
 }
 .user-svg-shape svg{
 	width:80px;
@@ -560,7 +560,7 @@ blockquote footer:before, .blockquote-reverse footer:after {
 }
 .progress-bar-striped {
 	background:transparent url(../img/progress-bg.png);
-	
+
 }
 .progress-bar.slide-ranger {
 	background: rgba(38,33,29,0.14);
@@ -584,7 +584,7 @@ blockquote footer:before, .blockquote-reverse footer:after {
 }
 
 /*
- 3.12)Breadcrumb Banner Section 
+ 3.12)Breadcrumb Banner Section
  ----------------------------------------*/
 .breadcrumb-section {
 	background: url(../img/breadcrumb-bg.jpg) center 37.3% no-repeat;
@@ -647,7 +647,7 @@ blockquote footer:before, .blockquote-reverse footer:after {
 }
 
 /*
- 3.14) Side Nav Style 
+ 3.14) Side Nav Style
  ----------------------------------------*/
 .side-nav {
 	list-style: none;
@@ -805,14 +805,22 @@ blockquote footer:before, .blockquote-reverse footer:after {
 }
 .navbar-nav {
 	margin: 0;
+  color:#dddddd;
 }
 .navbar-default .navbar-nav > li {
 	padding: 0;
 }
+.navbar-default .navbar-nav > li.active a {
+  color:#ffffff;
+}
+.navbar-default .navbar-nav > li > a:hover {
+  color: #ffffff;
+}
 .navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
 	padding: 14px 0 15px 0;
-	font-weight: 700;
+	font-weight: 100;
+	color: #dddddd;
 }
 .navbar-nav > li > .dropdown-menu {
 	text-transform: uppercase;
@@ -826,10 +834,10 @@ blockquote footer:before, .blockquote-reverse footer:after {
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
 	background-color: transparent;
+	color: #ffffff;
 }
 .navbar-default .dropdown-menu > li > a:hover, .navbar-default .dropdown-menu > li > a:focus {
 	background: none;
-	color: #26211d;
 }
 .navbar-default .navbar-toggle .icon-bar {
 	background: #26211d;
@@ -847,7 +855,7 @@ a.brand img {
 }
 
 .navbar-nav > li > .dropdown-menu > ul > li > a {
-	color: #26211d;
+	color: #dddddd;
 	font-weight: 300;
 	display: block;
 	padding: 9px 0;
@@ -867,6 +875,7 @@ a.brand img {
 	list-style: none
 }
 .navbar-nav > li > .dropdown-menu > ul > li:hover > a, .navbar-nav > li > .dropdown-menu > ul > li.active > a {
+  color: #ffffff;
 	font-weight: 700;
 }
 .navbar-nav > li > .dropdown-menu > ul > li:hover > a {
@@ -1046,7 +1055,7 @@ margin-left: 0;
 }
 .header-second .icon-search {
 	background:none;
-	
+
 }
 .header-second .form-group{
 	padding: 0;
@@ -1135,15 +1144,15 @@ display: block;
 	color: #988c81;
 }
 .header-third .navbar-default .navbar-nav > li > a:hover, .header-third .navbar-default .navbar-nav > li > a:focus, .header-third .navbar-default .navbar-nav > li.active > a{
-	color: #f2ede9;
+  color: #ffffff;
 }
 .header-third .bottom-line:before{
 	border-color:#383731 !important;
 }
- 
+
  /*
  5) Footer Styles
- ----------------------------------------*/ 
+ ----------------------------------------*/
  /*
  5.1) Footer First
  ----------------------------------------*/
@@ -1323,8 +1332,8 @@ transition: all 0.4s ease-in-out;
 	display:inline-block;
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
-	
-	
+
+
 }
 .footer-nav ul{
 	margin:0;
@@ -1342,7 +1351,7 @@ transition: all 0.4s ease-in-out;
 	padding: 0;
 }
 .copyright-alternate .container{
-	
+
 	border-top: solid 1px #575352;
 }
 .copyright-alternate .container span{
