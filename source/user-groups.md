@@ -5,6 +5,11 @@ title: "User Groups"
 ---
 # User Groups
 
+<p class="lead">Many local tech user groups schedule events on Meetup.com.
+If you don't see what you're looking for below, head over to the
+<a href="http://www.meetup.com/memphis-technology-user-groups/" target="_blank">
+Memphis Tehnology User Groups</a>.</p>
+
 #### <a href="http://www.midsouthmakers.org/" target="_blank">Midsouth Makers - Local Hacker/Makerspace</a>
 * Open House Every Friday 7pm-9pm <a href="http://twitter.com/MidsouthMakers" target="_blank">@MidsouthMakers</a>
 
