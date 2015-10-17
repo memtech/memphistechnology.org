@@ -8,15 +8,17 @@ title: Donate
 You can directly impact what we can do. All donations will go towards the operating costs of Memphis Technology Foundation's endeavors to create and facilitate technical events in Memphis.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<fieldset><legend>Make a Tax-Deductable Donation</legend>
+<p>Memphis Technology Foundation is a 501(c)(3) Public Charity Nonprofit. Donors can deduct contributions they make under IRC Section 170.</p>
+<div class="text-center">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="4YXXBRPT6NLGY">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</div>
+</fieldset>
 </form>
-
-# Tax Deductible
-
-Memphis Technology Foundation is a 501(c)(3) Public Charity Nonprofit. Donors can deduct contributions they make under IRC Section 170.
+<hr/>
 
 # Amazon Smile
 
