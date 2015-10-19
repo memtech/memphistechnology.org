@@ -18,6 +18,7 @@
         <style>
         /** quick fix because bootstrap <pre> has a background-color. */
         pre code { background-color: inherit; }
+        li.donate a:hover {background-color:#04c;} /* fix bg color on hover */
         </style>
         <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
         <script type="text/javascript">stLight.options({publisher: "6042d0b5-2d21-434e-aee9-886928e5e53f", doNotHash: true, doNotCopy: false, hashAddressBar: false});</script>
@@ -63,9 +64,9 @@
                         <ul class="nav">
                             <li><a href="{{ site.url }}/about">About</a></li>
                             <li><a href="{{ site.url }}/about/sponsors">Sponsors</a></li>
-                            <li><a href="{{ site.url }}/donate">Donate</a></li>
                             <li><a href="{{ site.url }}/user-groups">User Groups</a></li>
                             <li><a class="feed" href="{{ site.url }}/atom.xml">RSS Feed</a></li>
+                            <li class="donate"><a class="btn btn-primary btn-large" href="{{ site.url }}/donate">Donate</a></li>
                         </ul>
                     </div>
                     <div class="well sidebar-nav">
