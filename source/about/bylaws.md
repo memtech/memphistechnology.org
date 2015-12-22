@@ -29,9 +29,9 @@ title: Memphis Technology Foundation Bylaws
 
 2. The officers of the board shall consist of two (2) Co-chairmen, President, and Secretary nominated by the Board.
 
-    1. Co-Chairman: Brian Swanson
+    1. Co-Chairman:
 
-    2. Co-Chairman & President: Joe Ferguson
+    2. Co-Chairman & President:
 
     3. Secretary: Bryan Robinson
 
