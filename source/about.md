@@ -23,7 +23,7 @@ For more information contact info AT memphistechnology dot org.
 
 Memphis Technology Foundation <br />
 2804 Bartlett Road <br />
-Suite 2 <br />
+Suite 3 <br />
 Memphis, TN,  38134 <br />
 
 ## Social Media
