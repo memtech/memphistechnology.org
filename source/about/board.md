@@ -5,7 +5,9 @@ title: Memphis Technology Foundation Board Members
 ---
 # Memphis Technology Foundation Board Members
 
-* Secretary: Bryan Robinson
-* Brad Montgomery
-* Sean Lissner
-* Claudio Donndelinger
+* Chairman - Brad Montgomery
+* Board Member - Bryan Robinson
+* Board Member - Claudio Donndelinger
+* Board Member - Joe F.
+* Board Member -  Vacant
+* Board Member - Vacant
