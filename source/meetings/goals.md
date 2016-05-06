@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: meeting_notes
 title: MTF Potential Goals Discussion Notes
 
 ---
-[back to meetings](/meetings)
+[back to meetings](/about/meetings)
 
 ## MTF Potential Goals Discussion Notes
 

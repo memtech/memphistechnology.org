@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: meeting_notes
 title: December 16th 2014 Meeting Notes
 
 ---
-[back to meetings](/meetings)
+[back to meetings](/about/meetings)
 
 ## December 16th 2014 Meeting Notes
 

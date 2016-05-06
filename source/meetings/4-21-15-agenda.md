@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: meeting_notes
 title: April 21st MTF Board Meeting Agenda
 
 ---
-[back to meetings](/meetings)
+[back to meetings](/about/meetings)
 
 * Organizational & Financial Update
 
