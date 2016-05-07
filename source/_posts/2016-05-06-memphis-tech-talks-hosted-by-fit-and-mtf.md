@@ -1,5 +1,5 @@
 ---
-title: "Memphis Talks hosted by FIT & MTF"
+title: "Memphis Tech Talks hosted by FIT & MTF"
 tags:
     - memtech
     - memphis
