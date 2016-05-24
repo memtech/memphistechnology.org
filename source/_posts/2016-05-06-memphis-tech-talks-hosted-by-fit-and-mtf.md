@@ -26,6 +26,9 @@ Are you passionate about Technology and want to give a 10-15 minute talk? Email 
 
 • Eric Terpstra : Multi-headed apps. Deploying for web, desktop, and mobile
  
+• George Spake: Accessibility 101- the technical stuff 
+ 
+• Jason Charnes : 15 Minutes with React Native 
  
 For more information and to RSVP please visit the <a href="http://www.meetup.com/memphis-technology-user-groups/events/230661746/" target="_blank">Meetup.com event</a>.
 
