@@ -23,8 +23,6 @@ Are you passionate about Technology and want to give a 10-15 minute talk? Email 
 • Joe Ferguson: So you just inherited a $Legacy Application
 
 • Mike Cochran: Modern Windows Shell
-
-• Eric Terpstra : Multi-headed apps. Deploying for web, desktop, and mobile
  
 • George Spake: Accessibility 101- the technical stuff 
  
