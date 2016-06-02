@@ -26,6 +26,8 @@ Are you passionate about Technology and want to give a 10-15 minute talk? Email 
  
 • George Spake: Accessibility 101- the technical stuff 
  
+• Daniel Lissner: 1s and 0s - the Basics of Assembly and Machine Language
+ 
 • Jason Charnes : 15 Minutes with React Native 
  
 For more information and to RSVP please visit the <a href="http://www.meetup.com/memphis-technology-user-groups/events/230661746/" target="_blank">Meetup.com event</a>.
