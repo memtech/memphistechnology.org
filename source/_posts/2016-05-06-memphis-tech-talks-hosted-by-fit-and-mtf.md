@@ -20,8 +20,6 @@ Are you passionate about Technology and want to give a 10-15 minute talk? Email 
 
 • Bryan Robinson: An Intro to Flexbox and Modern CSS Layout
 
-• Joe Ferguson: So you just inherited a $Legacy Application
-
 • Mike Cochran: Modern Windows Shell
  
 • George Spake: Accessibility 101- the technical stuff 
