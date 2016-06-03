@@ -10,7 +10,7 @@ author:
     - Joe
 ---
 
-Save the date! June 16th <strong>Memphis Technology Foundation</strong> and <strong>FedEx Institute of Technology</strong> will be hosting "Memphis Tech Talks" 
+Save the date! Thursday, June 16th at 6:30pm <strong>Memphis Technology Foundation</strong> and <strong>FedEx Institute of Technology</strong> will be hosting "Memphis Tech Talks" 
 
 Join us for an evening of Lightning Talks about what Memphis Tech Professionals are passionate about. Memphis Tech Talks will be a series of short lightning talks to that will give a high level overview or an in depth look at a technology. Speakers include national conference speakers, local User Group leaders, and experts in their field.
 
