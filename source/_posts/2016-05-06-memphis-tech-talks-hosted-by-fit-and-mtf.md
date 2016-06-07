@@ -22,6 +22,8 @@ Are you passionate about Technology and want to give a 10-15 minute talk? Email 
 
 • Mike Cochran: Modern Windows Shell
 
+• Douglas Starnes: Firebase, a Platform for Mobile Application Development
+
 • Keith Mattix: Elixir: Functional |> Fast |> Fault-tolerant
  
 • George Spake: Accessibility 101- the technical stuff 
