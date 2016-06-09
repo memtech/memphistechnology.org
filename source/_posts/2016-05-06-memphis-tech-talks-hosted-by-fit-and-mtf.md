@@ -22,6 +22,8 @@ Join us for an evening of Lightning Talks about what Memphis Tech Professionals 
 
 • Douglas Starnes: Firebase, a Platform for Mobile Application Development
 
+• Jessica Biggs: Animation on the Web: CSS, SVG & Canvas
+
 • Keith Mattix: Elixir: Functional |> Fast |> Fault-tolerant
  
 • George Spake: Accessibility 101- the technical stuff 
