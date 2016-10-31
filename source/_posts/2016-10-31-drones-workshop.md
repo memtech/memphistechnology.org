@@ -23,7 +23,7 @@ and students from across campus to meet potential partners, collaborators, and
 enthusiasts.
 
 If you're interested in attending this event, please
-<a href="https://bit.ly/DRONESreception16">RSVP at bit.ly/DRONESreception16</a>.
+<a target="_blank" href="https://bit.ly/DRONESreception16">RSVP at bit.ly/DRONESreception16</a>.
 
 
 The DRONES cluster at the FedEx Institute is committed to the development of
@@ -33,5 +33,5 @@ autonomous vehicles). We believe that Memphis has the potential to lead the
 nation in these areas by leveraging the organizations, the talent, and the
 abilities of the technology community in Memphis.
 
-To learn more about DRONES, visit <a href="http://fedex.memphis.edu/drones/">fedex.memphis.edu/drones/</a>.
+To learn more about DRONES, visit <a target="_blank" href="http://fedex.memphis.edu/drones/">fedex.memphis.edu/drones/</a>.
 
