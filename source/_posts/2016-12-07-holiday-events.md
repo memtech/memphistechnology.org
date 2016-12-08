@@ -23,7 +23,8 @@ eat, and play pool.
     Sign up for the secret Santa gift exchange! ($20 limit)
 </a>
 
-Sponsored by VACO (http://www.vaco.com/memphis), Tech901 (http://tech901.org/), and CrossBrowserTesting.com (http://www.crossbrowsertesting.com/)
+Sponsored by VACO (http://www.vaco.com/memphis), Tech901 (http://tech901.org/), CrossBrowserTesting.com (http://www.crossbrowsertesting.com/),
+ and Cook Systems (www.cooksys.com)
 
 <h2>MidsouthMakers Toys for Tots LAN Party</h2>
 
