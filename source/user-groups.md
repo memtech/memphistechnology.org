@@ -28,9 +28,6 @@ Memphis Tehnology User Groups</a>.</p>
 #### <a href="http://www.mempy.org" target="_blank">Memphis Python User Group</a>
 * Meets on the third Monday of every month at 6:30 pm <a href="http://twitter.com/MemphisPython" target="_blank">@MemphisPython</a>
 
-#### <a href="http://www.memphisjug.org" target="_blank">Mid-South/Memphis Java User Group</a>
-* Meets on the third Thursday of every month at 6:30 pm <a href="http://twitter.com/memphisjug" target="_blank">@memphisjug</a>
-
 #### <a href="http://memphisphp.org" target="_blank">Memphis PHP Group</a>
 * Meets on the fourth Tuesday of every month at 6:30 pm <a href="http://twitter.com/memphisphp" target="_blank">@MemphisPHP</a>
 
@@ -43,12 +40,13 @@ Memphis Tehnology User Groups</a>.</p>
 #### <a href="http://mem-pass.org" target="_blank">Memphis PASS Chapter</a>
 * Meets monthly
 
-#### <a href="http://www.meetup.com/Meteor-Memphis" target="_blank">Meteor Memphis</a>
-* Meets monthly
-
 #### <a href="http://www.pmimemphis.org" target="_blank">Project Management Institute – Memphis Chapter</a>
 
-#### <a href="https://twitter.com/MemphisRobotics" target="_blank">Memphis Robotics</a>
+#### <a href="https://www.meetup.com/Azure901/" target="_blank">Azure 901</a>
+
+#### <a href="https://www.vmug.com/p/co/ly/gid=129" target="_blank">Memphis VMUG</a> (VMware User Group)
+
+### <a href="http://sharepoint.memphissharepointgroup.com" target="_blank">Memphis Sharepoint User Group</a>
 
 ### Inactive or Unknown Status:
 
@@ -58,10 +56,18 @@ Memphis Tehnology User Groups</a>.</p>
 
 <a href="https://www.owasp.org/index.php/Memphis" target="_blank">Memphis OWASP</a>
 
-<a href="http://sharepoint.memphissharepointgroup.com" target="_blank">Memphis Sharepoint User Group</a>
-
 <a href="http://memhug.com" target="_blank">Memphis Hardware User Group</a>
 
 * User group for those interested in microcontrollers and microcomputers like the Arduino, Raspberry Pi, Beagle Boards, etc
 
 <a href="http://www.meetup.com/Memphis-MongoDB-User-Group/" target="_blank">Memphis MongoDB User Group</a>
+
+<a href="http://www.meetup.com/Meteor-Memphis" target="_blank">Meteor Memphis</a>
+
+* Meets monthly
+
+<a href="https://twitter.com/MemphisRobotics" target="_blank">Memphis Robotics</a>
+
+<a href="http://www.memphisjug.org" target="_blank">Mid-South/Memphis Java User Group</a>
+
+* Meets on the third Thursday of every month at 6:30 pm <a href="http://twitter.com/memphisjug" target="_blank">@memphisjug</a>
