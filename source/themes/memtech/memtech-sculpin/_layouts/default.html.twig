@@ -28,7 +28,9 @@
         <meta property="og:url" content="http://memphistechnology.org{{ page.url }}" />
         <meta property="og:title" content="{{ page.title }} &mdash; {{ site.title }} &mdash; {{ site.subtitle }}" />
         <meta property="og:image" content="http://memphistechnology.org/{{ theme_path("css/img/MTF-Stacked-Badge.png") }}" />
-        {%  if page.blocks.content %}
+        {% if page.url == "/" %}
+            <meta property="og:description" content="Memphis Technology Foundation" />
+        {% elseif page.blocks.content %}
             <meta property="og:description" content="{{ page.blocks.content|striptags|slice(0,200) }}" />
         {% else %}
             <meta property="og:description" content="Memphis Technology Foundation" />
