@@ -12,7 +12,7 @@ author:
     - Daniel Soskel
 ---
 
-The FedEx Institute of Technology is excited to announce that the next Emerging Innovation talk will feature <a href="http://www.reinhardheckel.com/" target="_blank">Dr. Reinhard Heckel</a> of UC Berkley speaking on DNA Data Storage, a technology that promises greatly increased storage capacity and longevity over current methods available today. Dr. Heckel was recently featured in an <a href="https://www.technologyreview.com/s/601851/microsoft-reports-a-big-leap-forward-for-dna-data-storage/" target="_blank">MIT Technology Review article</a> on this subject. This exciting talk is at the cutting edge of emerging technologies and should be an excellent event.
+The FedEx Institute of Technology is excited to announce that the next Emerging Innovation talk will feature <a href="http://www.reinhardheckel.com/" target="_blank">Dr. Reinhard Heckel</a> of UC Berkeley speaking on DNA Data Storage, a technology that promises greatly increased storage capacity and longevity over current methods available today. Dr. Heckel was recently featured in an <a href="https://www.technologyreview.com/s/601851/microsoft-reports-a-big-leap-forward-for-dna-data-storage/" target="_blank">MIT Technology Review article</a> on this subject. This exciting talk is at the cutting edge of emerging technologies and should be an excellent event.
 
 **What:** Emerging Innovation - DNA Data Storage by <a href="http://www.reinhardheckel.com/" target="_blank">Dr. Reinhard Heckel</a>
 **When:** July 13, 5:00 PM
