@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html prefix="og: http://ogp.me/ns#">
     <head>
         <!-- Using sculpin's template system -->
         <title>{% block title %}{{ page.title }}{% endblock %} &mdash; {{ site.title }} &mdash; {{ site.subtitle }}</title>
@@ -22,6 +22,22 @@
         </style>
         <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
         <script type="text/javascript">stLight.options({publisher: "6042d0b5-2d21-434e-aee9-886928e5e53f", doNotHash: true, doNotCopy: false, hashAddressBar: false});</script>
+
+        <!-- Facebook Open Graph -->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://memphistechnology.org{{ page.url }}" />
+        <meta property="og:title" content="{{ page.title }} &mdash; {{ site.title }} &mdash; {{ site.subtitle }}" />
+        <meta property="og:image" content="http://memphistechnology.org/{{ theme_path("css/img/MTF-Stacked-Badge.png") }}" />
+        {% if page.url == "/" %}
+            <meta property="og:description" content="Memphis Technology Foundation" />
+        {% elseif page.blocks.content %}
+            <meta property="og:description" content="{{ page.blocks.content|striptags|slice(0,200) }}" />
+        {% else %}
+            <meta property="og:description" content="Memphis Technology Foundation" />
+        {% endif %}
+
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="summary_large_image" />
     </head>
     <body>
         <header>
@@ -43,7 +59,7 @@
                                 <li><a href="/blog/2015/05/19/join-memtech-on-slack-chat/">Chat with us</a></li>
                                 <li><a href="{{ site.url }}/newsletter-signup">Newsletter</a></li>
                                 <li><a href="https://groups.google.com/forum/#!forum/memtech" target="_blank">Discussion List</a></li>
-                                <!-- <li><a href="{{ site.url }}/events">Events</a></li> -->
+                                <li><a href="{{ site.url }}/calendar">Calendar</a></li>
                             </ul>
                         </div><!--/.nav-collapse -->
                     </div>
