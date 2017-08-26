@@ -6,6 +6,11 @@ use:
     - posts
 
 ---
+<section class="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="page-header section-header clearfix">
 {% set year = '0' %}
 <h2>Posts Archive</h2>
 {% for post in page.pagination.items %}
@@ -36,3 +41,8 @@ use:
     </nav>
 {% endif %}
 </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
