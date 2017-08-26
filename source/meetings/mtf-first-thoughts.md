@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: meeting_notes
 title: MTF First Thoughts
 
 ---
-[back to meetings](/meetings)
+[back to meetings](/about/meetings)
 
 ## MTF First Thoughts
 

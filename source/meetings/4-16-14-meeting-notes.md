@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: meeting_notes
 title: April 16th 2014 MTF Board Meeting
 
 ---
-[back to meetings](/meetings)
+[back to meetings](/about/meetings)
 
 ## April 16th 2014 MTF Board Meeting
 

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% include theme_path('partials/head.html') %}
+</head>
+<body>
+
+<div id="wrapper">
+    {% include theme_path('partials/header.html') %}
+    <!-- Site Content -->
+        <!-- Breadcrumb Section Start Here -->
+        <div class="breadcrumb-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <h1>Blog</h1>
+                        <ul class="breadcrumb">
+                            <li>
+                                <a href="/">Home</a>
+                            </li>
+                            <li class="active">
+                                Blog
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Breadcrumb Section End Here -->
+        <div class="content-wrapper container" id="page-info">
+            <div class="row">
+                <div class="col-xs-12">
+                    <article class="blog blog-details anim-section">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-10 col-sm-offset-1 caption">
+                                <h2 class="h1">{{ page.title }}</h2>
+                                <ul class="post-in">Author:
+                                    {% for thisAuthor in page.author %}
+                                        <li>{{ thisAuthor }}</li>
+                                    {% endfor %}
+                                </ul>
+                                <p>
+                                    {{ page.blocks.content|raw }}
+                                </p>
+                                {% if page.categories %}
+                                    <ul class="post-in">Categories:
+                                        {% for category in page.categories %}
+                                            <li>
+                                                <a href="{{ site.url }}/blog/categories/{{ category|url_encode(true) }}">
+                                                    {{ category }}
+                                                </a>
+                                                {% if not loop.last %} {% endif %}
+                                            </li>
+                                        {% endfor %}
+                                    </ul>
+                                {% endif %}
+                                {% if page.tags %}
+                                    <ul class="post-in">Tags:
+                                        {% for tag in page.tags %}
+                                            <li>
+                                                <a href="{{ site.url }}/blog/tags/{{ tag|url_encode(true) }}">
+                                                    {{ tag }}
+                                                </a>
+                                                {% if not loop.last %} {% endif %}
+                                            </li>
+                                        {% endfor %}
+                                    </ul>
+                                {% endif %}
+                                {% if page.previous_post or page.next_post %}
+                                    <nav class="article">
+                                        <ul>
+                                            {% if page.next_post %}
+                                                <li>Next: <a class="next" href="{{ site.url }}{{ page.next_post.url }}" title="{{ page.next_post.title }}"><span class="title">{{ page.next_post.title }}</span></a></li>
+                                            {% endif %}
+                                            {% if page.previous_post %}
+                                                <li>Previous: <a class="previous" href="{{ site.url }}{{ page.previous_post.url }}" title="{{ page.previous_post.title }}"><span class="title">{{ page.previous_post.title }}</span></a></li>
+                                            {% endif %}
+                                        </ul>
+                                    </nav>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- site content ends -->
+
+
+
+    </div>
+    <!--Content End Here -->
+    {% include theme_path('partials/footer.html') %}
+
+</div>
+{% include theme_path('partials/scripts.html') %}
+</body>
+</html>

@@ -9,6 +9,7 @@ categories:
     - news
 author:
     - Joe
+layout: post
 ---
 
 Join us on Slack! Chat with other #memtech community members.
