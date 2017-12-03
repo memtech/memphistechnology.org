@@ -416,7 +416,7 @@ margin-bottom:20px;
 	border: 1px solid #b1defb;
 }
 .alert.alert-warning {
-	color: #d2af49;
+	color: #2777D5;
 	border: 1px solid #fbdeb1;
 }
 .alert.alert-default {
@@ -435,7 +435,7 @@ margin-bottom:20px;
 	color: #71abd1;
 }
 .alert.alert-warning p {
-	color: #d2af49;
+	color: #2777D5;
 }
 .alert.alert-default p {
 	color: #b9b5b4;
