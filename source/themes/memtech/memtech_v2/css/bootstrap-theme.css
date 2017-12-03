@@ -174,11 +174,11 @@
 	background-color: #357ebd;
 }
 .navbar-default {
-	background-image: -webkit-linear-gradient(top, #f0d460 0%, #ecc731 100%);
-	background-image: -o-linear-gradient(top, #f0d460 0%, #ecc731 100%);
-	background-image: linear-gradient(to bottom, #f0d460 0%, #ecc731 100%);
+	background-image: -webkit-linear-gradient(top, #2777D5 0%, #2777D5 100%);
+	background-image: -o-linear-gradient(top, #2777D5 0%, #2777D5 100%);
+	background-image: linear-gradient(to bottom, #2777D5 0%, #2777D5 100%);
 	background-repeat: repeat-x;
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff0d460', endColorstr='#ffecc731', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2777D5', endColorstr='#2777D5', GradientType=0);
 	filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
 	border-radius: 0;
 	-webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 5px rgba(0, 0, 0, 0.075);
