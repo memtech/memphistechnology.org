@@ -8,3 +8,8 @@ s3.conf
 .idea
 .DS_Store
 BaseTheme
+
+# vim, sigh
+*.swp
+*.swo
+*~
