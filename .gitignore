@@ -4,6 +4,7 @@
 /app/config/sculpin_site_*.yml
 /app/logs/*
 /output_*/
+/vendor/
 s3.conf
 .idea
 .DS_Store

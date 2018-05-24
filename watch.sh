@@ -1,3 +1,3 @@
 #!/bin/bash
 rm -rf output_dev
-sculpin generate --watch --server
+vendor/bin/sculpin generate --watch --server
