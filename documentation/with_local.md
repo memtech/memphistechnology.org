@@ -2,19 +2,22 @@
 ## Install PHP (if you didn't have it already)
 
 ```sh
-# install php5 - ubuntu
-sudo apt-get install php5-cli
+# install php - debian / ubuntu
+sudo apt-get install php-cli php-xml
+```
+
+## Install Composer (used to install Sculpin)
+
+```sh
+# install composer - debian / ubuntu
+sudo apt-get install composer
 ```
 
 ## Install Sculpin (requires PHP)
 
 ```sh
-# install sculpin locally (requires PHP install)
-curl -O https://download.sculpin.io/sculpin.phar
-chmod +x sculpin.phar
-
-# this assumes ~/bin is on your $PATH
-mv ~/bin/sculpin.phar ~/bin/sculpin
+# from your project directory
+composer install
 ```
 
 ## Run a local server via Sculpin
