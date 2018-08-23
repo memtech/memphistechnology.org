@@ -32,7 +32,7 @@ Come hang out and eat pizza with Memphis developers.
 <a href="https://www.meetup.com/memphis-technology-user-groups/events/253977018/">Click here to RSVP for the first DevMemphis meetup on Meetup.com</a>
 <h3>Presenters</h3>
 <strong><a href="https://twitter.com/georgespake">George Spake</a></strong>  
-Lens Rentals  
+Lensrentals  
 George will speak briefly about the Memphis Tech community and the Memtech experience”  
   <br />
 <strong><a href="https://twitter.com/JoePFerguson">Joe Ferguson</a></strong>  
