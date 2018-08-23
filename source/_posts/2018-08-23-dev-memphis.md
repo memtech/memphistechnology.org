@@ -1,5 +1,5 @@
 ---
-title: "Introducing DevMemphis, A new Technical Meetup for Memphis Software Developers"
+title: "Introducing DevMemphis, A new Technical User Group for Memphis Software Developers"
 tags:
     - memtech
     - memphis
