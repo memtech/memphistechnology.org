@@ -1374,3 +1374,8 @@ transition: all 0.4s ease-in-out;
 .footer-third .footer-logo {
 margin-bottom: 13px;
 }
+
+.donations {
+	min-height: 600px;
+}
+
