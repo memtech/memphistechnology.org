@@ -942,7 +942,7 @@ main-slider .tp-caption .btn.btn-default {
 }
 .news-section3 .get-involved {
 	font-size: 48px;
-	line-height: 1.1;
+	/*line-height: 1.1;*/
 }
 .news-section3 .user-svg-shape {
 	position: static;
@@ -1039,7 +1039,7 @@ main-slider .tp-caption .btn.btn-default {
 	padding-bottom: 41px;
 	border-bottom: 1px solid #e8e8e8;
 	margin-bottom: 91px;
-	margin-top: 21px;
+	/*margin-top: 21px;*/
 }
 .blog img {
 	display: block;
@@ -1943,7 +1943,7 @@ aside ul.archives li span {
  ----------------------------------------*/
 
 .content-wrapper {
-	padding-top: 40px;
+	/*padding-top: 40px;*/
 }
 .mission-page h2 {
 	font-weight: 300;

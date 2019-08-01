@@ -499,7 +499,7 @@ aside.media .pull-left{
     margin: 0 auto;
 }
 .content-wrapper .section-header.work-block-heading {
-    margin-top: 25px;
+    /*margin-top: 25px;*/
 }
 .we-help{
 	padding-top: 50px;
@@ -860,7 +860,7 @@ margin-top: 25px;
 	}
 
 	.donation-holder {
-		padding-top: 40px;
+		padding-top: 10px;
 	}
 	.latest-news {
 		padding-bottom: 0;
@@ -1071,7 +1071,7 @@ margin-top:10px;
     margin-top: 7px;
 }
 .content-wrapper {
-    padding-top: 20px;
+    /*padding-top: 20px;*/
 }
 
 .section-header {
