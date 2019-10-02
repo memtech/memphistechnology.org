@@ -38,3 +38,11 @@ Maybe you've got some new content you'd like to see on the page.  What happens a
 @Svpernova09 handles deployments.
 
 If you don't see your change on the live site and you see your PR merged into master: Please ping ```joepferguson``` in #memtech on Freenode or #memtech Slack.
+
+## How to contribute blog posts
+
+* Blog posts are stored in the `source/_posts/` folder in Markdown
+* Create a new markdown file in the folder with the appropriate front matter (Variables at the top)
+* Write blog post
+* Save your changes and commit to version control
+* Open a pull request and await someone to review your changes
