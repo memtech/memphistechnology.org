@@ -41,8 +41,8 @@ If you don't see your change on the live site and you see your PR merged into ma
 
 ## How to contribute blog posts
 
-* Blog posts are stored in the `source/_posts/` folder in Markdown
-* Create a new markdown file in the folder with the appropriate front matter (Variables at the top)
-* Write blog post
+* Blog posts are stored in the `source/_posts/` folder in Markdown format
+* Create a new markdown file in the folder with the appropriate front matter (Variables at the top, use an existing file as an example)
+* Write blog post (HTML is OK after the front matter)
 * Save your changes and commit to version control
 * Open a pull request and await someone to review your changes
