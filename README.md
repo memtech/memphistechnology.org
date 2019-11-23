@@ -17,11 +17,12 @@ You're going to need a few things:
 
 - A copy of this codebase
 - One of the recommended deving systems listed below to cover the following resources
-	- [PHP](http://php.net/manual/en/install.php)
-	- [git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-	- [Sculpin](https://sculpin.io/getstarted/)
+    - [PHP](http://php.net/manual/en/install.php)
+    - [git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+    - [Sculpin](https://sculpin.io/getstarted/)
 
 ## Clone the repo
+
 ```sh
 # get a copy of the code
 git clone git@github.com:memtech/memphistechnology.org.git
@@ -32,14 +33,9 @@ cd memphistechnology.org/
 - Using your [local system](documentation/with_local.md)
 - Using [Docker](documentation/with_docker.md)
 
-
 # Deployment
 
-Maybe you've got some new content you'd like to see on the page.  What happens after you submit a PR?
-
-@Svpernova09 handles deployments.
-
-If you don't see your change on the live site and you see your PR merged into master: Please ping ```joepferguson``` in #memtech on Freenode or #memtech Slack.
+Deployment is handled by Netlify whenever a commit or PR is merged to `master`
 
 ## How to contribute blog posts
 
