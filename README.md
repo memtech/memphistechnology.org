@@ -1,5 +1,7 @@
 # Memphis Technology Foundation
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db842e29-26d0-429d-a7bf-2bfd8f05d228/deploy-status)](https://app.netlify.com/sites/cranky-shockley-26311d/deploys)
+
 [http://www.MemphisTechnology.org](http://www.MemphisTechnology.org)
 
 Memphis Technology Foundation is a group interested in getting stuff done. Making stuff happen. Facilitation.
