@@ -39,6 +39,9 @@
                                         <li>{{ thisAuthor }}</li>
                                     {% endfor %}
                                 </ul>
+                                {% if page.image %}
+                                    <img src="{{ post.image }}" class="featured-image">
+                                {% endif %}
                                 <p>
                                     {{ page.blocks.content|raw }}
                                 </p>

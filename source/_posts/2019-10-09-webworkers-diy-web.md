@@ -9,6 +9,7 @@ categories:
     - meetup
 author:
     - Joe Ferguson
+image: /images/webworkers.png
 ---
 This past Tuesday <strong><a href="https://twitter.com/brob">Bryan Robinson</a></strong> led a fantastic installment to the Memphis Webworkers meetup named "The DIY Web". Bryan showed off how he manages his content and publishing workflow via <a href="https://www.netlify.com/">Netlify</a>, <a href="https://fauna.com//">FaunaDB</a>, and the <a href="https://www.11ty.io/">11ty Static Site generator</a>. This bundling of Javascript, APIs, and Markup is what makes up the JAM Stack. The idea behind the DIY web is that you are in full control of your workflow and content and can move it to different hosts or platforms as you wish, thus not coupling your website to any particular host or platform. You can easily leverage the ever-growing amount of services out there such as Netlify or you can host everything yourself.
 

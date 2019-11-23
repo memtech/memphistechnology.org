@@ -3496,3 +3496,12 @@ aside ul.tag_element li{
 	 
 	
 }
+
+.featured-image {
+	width: 40%;
+}
+
+.featured-image-homepage {
+	max-width: 200px;
+	margin: auto;
+}

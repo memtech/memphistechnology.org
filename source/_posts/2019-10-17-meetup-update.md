@@ -7,6 +7,7 @@ categories:
     - meetup
 author:
     - Joe Ferguson
+image: /themes/memtech/memtech_v2/img/MTF-Stacked-Badge.png
 ---
 This past week there has been a lot of commentary on the announced meetup.com changes that are being tested in two states among select meetup groups. The proposed changes involved charging for RSVPs. Naturally our users of the Memphis Technology User Groups Meetup account are worried they may have to start paying to attend meetups. I want to reassure anyone concerned that we are in communication with Meetup.com directly and we ware unaffected and currently do not anticipate being affected.
 

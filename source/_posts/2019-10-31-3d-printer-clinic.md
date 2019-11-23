@@ -10,6 +10,7 @@ categories:
     - meetup
 author:
     - Cameron Roe
+image: /images/3d-printer-clinic.png
 ---
 <h2>3D Printer Clinic</h2>
 Having an issue with your 3D printer? Needs some help dialing in your settings?

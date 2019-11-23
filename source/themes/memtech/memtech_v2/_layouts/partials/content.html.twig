@@ -13,7 +13,10 @@
                     <ul class="slides">
                         {% for post in page.pagination.items %}
                         <li>
-                            <div class="items zoom">
+                            <div class="items">
+                                {% if post.image %}
+                                    <img src="{{ post.image }}" class="featured-image-homepage">
+                                {% endif %}
                                 <h3 class="h6"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
                                 <p>
                                     {{ post.blocks.content|length > 150 ? post.blocks.content|striptags|slice(0, 150) ~ '...' : post.blocks.content|striptags  }}
