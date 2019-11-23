@@ -1370,19 +1370,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sculpin/sculpin.git",
-                "reference": "a1319431a171af6bb30ebd9e103318aa5ba63614"
+                "reference": "d5d412354f377d650c18096340f9b874eebd2388"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sculpin/sculpin/zipball/a1319431a171af6bb30ebd9e103318aa5ba63614",
-                "reference": "a1319431a171af6bb30ebd9e103318aa5ba63614",
+                "url": "https://api.github.com/repos/sculpin/sculpin/zipball/d5d412354f377d650c18096340f9b874eebd2388",
+                "reference": "d5d412354f377d650c18096340f9b874eebd2388",
                 "shasum": ""
             },
             "require": {
                 "dflydev/ant-path-matcher": "1.*",
                 "dflydev/apache-mime-types": "~1.0,>=1.0.1",
                 "dflydev/canal": "1.*",
-                "dflydev/dot-access-configuration": "^1.0.1",
+                "dflydev/dot-access-configuration": "v1.0.2",
                 "dflydev/embedded-composer": "^1.0@dev",
                 "dflydev/symfony-finder-factory": "1.*",
                 "doctrine/inflector": "1.0.*",
@@ -1462,7 +1462,7 @@
                 "site",
                 "static"
             ],
-            "time": "2018-02-04T04:05:39+00:00"
+            "time": "2018-10-13T06:30:41+00:00"
         },
         {
             "name": "sculpin/sculpin-theme-composer-plugin",
@@ -1817,16 +1817,16 @@
         },
         {
             "name": "symfony/dependency-injection",
-            "version": "v2.8.40",
+            "version": "v2.8.52",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dependency-injection.git",
-                "reference": "3d7cbf34cd75ede7f94b9b990f85bd089e15cd55"
+                "reference": "c306198fee8f872a8f5f031e6e4f6f83086992d8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/3d7cbf34cd75ede7f94b9b990f85bd089e15cd55",
-                "reference": "3d7cbf34cd75ede7f94b9b990f85bd089e15cd55",
+                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/c306198fee8f872a8f5f031e6e4f6f83086992d8",
+                "reference": "c306198fee8f872a8f5f031e6e4f6f83086992d8",
                 "shasum": ""
             },
             "require": {
@@ -1876,7 +1876,7 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
-            "time": "2018-02-19T16:23:47+00:00"
+            "time": "2019-04-16T11:33:46+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
