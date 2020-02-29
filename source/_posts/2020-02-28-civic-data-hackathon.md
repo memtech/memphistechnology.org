@@ -8,7 +8,7 @@ categories:
     - meetup
 author:
     - Joe Ferguson
-image: https://memphistechnology.org/images/civic-hackathon.png
+image: /images/civic-hackathon.png
 ---
 
 <h1>Civic Data Hackathon March 6-8 2020</h1>
@@ -34,6 +34,6 @@ You also do NOT have to be a tech expert already to attend - this is a great opp
  Website: <a href="http://memphisdatahack.com" target="_blank">MemphisDataHack.com</a>
  
  <a href="https://www.eventbrite.com/e/memphis-civic-data-hackathon-tickets-93032758485" target="_blank">
- <img src="https://memphistechnology.org/images/civic-hackathon.png">
+ <img src="/images/civic-hackathon.png">
  </a>
  
