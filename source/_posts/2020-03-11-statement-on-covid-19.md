@@ -16,6 +16,6 @@ The Memphis Technology Foundation has been watching the news about Coronavirus (
 
 We have decided to cancel the Wednesday East Memphis lunch and coworking events for the rest of March.
 
-If you're misisng the community please <a href="https://memphistechnology.org/blog/2015/05/19/join-memtech-on-slack-chat/" target="_blank">join us in slack</a>
+If you're missing the community please <a href="https://memphistechnology.org/blog/2015/05/19/join-memtech-on-slack-chat/" target="_blank">join us in slack</a>
 
 Take care of yourselves, and wash your hands :D
