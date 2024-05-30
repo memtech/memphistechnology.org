@@ -1,6 +1,11 @@
 {
   "require": {
-    "sculpin/sculpin": "^2.1@dev",
+    "sculpin/sculpin": "^3.2.0",
     "dflydev/embedded-composer": "@dev"
+  },
+  "config": {
+    "allow-plugins": {
+      "sculpin/sculpin-theme-composer-plugin": true
+    }
   }
 }
